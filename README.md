@@ -11,9 +11,9 @@ After Installation just remove the file.
 # Running...
 To run the script:
 1. chmod + x juice-shop.sh
-2. ./juice-shop.sh <options>
-    ./juice-shop.sh <PORT> -- to run juice-shop on the specified <PORt>
-    ./juice-shop.sh kill   -- to kill all current running Docker Containers
+2. ./juice-shop.sh <options>\n
+    ./juice-shop.sh <PORT> -- to run juice-shop on the specified <PORt>\n
+    ./juice-shop.sh kill   -- to kill all current running Docker Containers\n
   
 # If you want to make it as a binary
 1. Move juice-shop.sh to your desired location
